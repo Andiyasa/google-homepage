@@ -1,0 +1,235 @@
+#custom-bg {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    left: 0;
+    margin: 0;
+    opacity: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    transition: opacity 700ms;
+    width: 100%;
+}
+#prpd {
+    text-align: start;
+}
+#mngb {
+    position: absolute;
+    top: 15px;
+    -webkit-transition: opacity 130ms;
+    width: 100%;
+}
+span#prt {
+    display: block;
+}
+#prm, #prt, #DFDWpd {
+    -webkit-user-select: auto;
+}
+#TZA4S {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+}
+#lga {
+    flex-shrink: 0;
+    height: 231px;
+    margin-top: 45px;
+    text-align: -webkit-center;
+}
+form {
+    height: 39px;
+}
+form {
+    display: block;
+    margin-top: 0em;
+}
+.spch-dlg {
+    background: transparent;
+    border: none;
+}
+dialog:not([open]) {
+    display: none;
+}
+dialog {
+    display: block;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    width: -webkit-fit-content;
+    height: -webkit-fit-content;
+    color: black;
+    margin: auto;
+    border-width: initial;
+    border-style: solid;
+    border-color: initial;
+    border-image: initial;
+    padding: 1em;
+    background: white;
+}
+.des-mat #most-visited {
+    margin-top: 63px;
+    margin-top: 35px;
+}
+#most-visited {
+    -webkit-user-select: none;
+}
+.md-icons {
+}
+
+element.style {
+    width: 691px;
+}
+.md-icons #mv-tiles, .des-mat .md-icons #mv-tiles {
+    height: calc(112px + 112px + 16px + 16px + 10px);
+}
+@media only screen and (min-width: 872px)
+.des-mat #mv-tiles {
+    width: 688px;
+}
+@media only screen and (min-width: 700px)
+.des-mat #mv-tiles {
+    width: 516px;
+}
+.des-mat #mv-tiles {
+    width: 344px;
+}
+.des-mat #mv-tiles {
+    height: calc(4px + 128px + 16px + 128px + 8px);
+    line-height: 146px;
+    max-height: calc(100% - 10px - 16px - 10px);
+}
+#mv-tiles {
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+    text-align: start;
+}
+#mv-noti-container, #error-notice-container {
+    pointer-events: none;
+}
+#mv-noti-container {
+    bottom: -50px;
+    margin-bottom: 16px;
+    position: fixed;
+    transition: bottom 400ms;
+}
+#mv-noti-container {
+    width: 100%;
+}
+#error-notice-container {
+    bottom: -50px;
+    margin-bottom: 16px;
+    position: fixed;
+    transition: bottom 400ms;
+    user-select: none;
+    width: 100%;
+}
+.default-theme #edit-bg, #edit-bg.custom-links-enabled {
+    border-radius: 8px;
+    bottom: 16px;
+    display: block;
+    height: 28px;
+    position: fixed;
+    right: 16px;
+    width: 28px;
+    z-index: 100;
+}
+#edit-bg-dialog {
+    background: #fff;
+    border: none;
+    border-radius: 8px;
+    border-width: thin;
+    bottom: 44px;
+    box-shadow: 0 1px 3px 0 rgba(60,64,67,0.3), 0 4px 8px 3px rgba(60,64,67,0.15);
+    left: auto;
+    padding: 0;
+    position: fixed;
+    right: 16px;
+    text-align: left;
+}
+#bg-sel-menu {
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    bottom: 0;
+    box-shadow: 0 1px 3px 0 rgba(60,64,67,0.3), 0 4px 8px 3px rgba(60,64,67,0.15);
+    font-family: 'Roboto',arial,sans-serif;
+    height: 400px;
+    left: 0;
+    margin: auto;
+    padding: 0 0 0 0;
+    position: absolute;
+    right: 0;
+    text-align: left;
+    top: 0;
+    width: 517px;
+    z-index: 10000;
+}
+
+div {
+    display: block;
+}
+body {
+    cursor: default;
+    font: small arial,sans-serif;
+    margin: 0;
+    min-width: 360px;
+    min-height: 100%;
+    overflow-x: hidden;
+    text-align: -webkit-center;
+}
+#theme-attr {
+    bottom: 0;
+    display: inline-block;
+    font-size: 10pt;
+    left: auto;
+    position: fixed;
+    right: 8px;
+    white-space: nowrap;
+    z-index: -1;
+}
+.default-theme #custom-bg-attr {
+    border-radius: 8px;
+    bottom: 16px;
+    color: white;
+    font-family: 'Roboto',arial,sans-serif;
+    font-weight: 500;
+    left: 16px;
+    padding: 8px 8px 8px 8px;
+    position: fixed;
+    text-align: left;
+    text-shadow: 0 0 16px rgba(0,0,0,0.3);
+    z-index: -1;
+}
+element.style {
+    display: none;
+}
+#TZA4S {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+}
+#custom-links-edit-dialog {
+    background: transparent;
+    border: none;
+    height: 100%;
+    padding: 0;
+    position: fixed;
+    text-align: -webkit-auto;
+    top: 0;
+    width: 100%;
+}
+iframe {
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+}
